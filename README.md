@@ -1,1 +1,2 @@
-# dudley-elementary-number-theory-2
+# Elementary Number Theory Second Edition (Dover Books on Mathematics)
+By Underwood Dudley
