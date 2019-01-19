@@ -84,3 +84,10 @@
 15.
     1. If x2 + ax + b = 0 has an integer root, show that it divides b.
     2. If x2 + ax + b = 0 has a rational root, show that it is in fact an integer.
+    
+<details>
+  <summary>**Solutions**</summary>
+  1. 1 and 592.
+  3. One solution is x = -40, y = 79.
+  11. (b) Yes.
+</details>
