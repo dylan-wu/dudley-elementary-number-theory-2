@@ -51,9 +51,19 @@
 ## Problems
 1. Calculate (314, 159) and (4144, 7696).
 
+<details>
+  <summary>Solutions</summary>
+  1. 1 and 592.
+</details>
+
 2. Calculate (3141, 1592) and (10001, 100083).
 
 3. Find x and y such that 314x + 159y = 1.
+
+<details>
+  <summary>Solutions</summary>
+  3. One solution is x = -40, y = 79.
+</details>
 
 4. Find x and y such that 4144x + 7696y = 592.
 
@@ -75,6 +85,11 @@
     1. Prove that (k, n +k) = 1 if and only if (k, n) = 1.
     2. Is it true that (k, n + k) = d if and only if (k, n) = d?
 
+<details>
+  <summary>Solution</summary>
+  11. (b) Yes.
+</details>
+
 12. Prove: If alb and cld, then aclbd.
 
 13. Prove: If dla and d| b, then d2|ab.
@@ -84,10 +99,3 @@
 15.
     1. If x2 + ax + b = 0 has an integer root, show that it divides b.
     2. If x2 + ax + b = 0 has a rational root, show that it is in fact an integer.
-    
-<details>
-  <summary>**Solutions**</summary>
-  1. 1 and 592.
-  3. One solution is x = -40, y = 79.
-  11. (b) Yes.
-</details>
