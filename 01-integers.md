@@ -52,7 +52,7 @@
 1. Calculate (314, 159) and (4144, 7696).
 
 <details>
-  <summary>   Solution</summary>
+  <summary>Solution</summary>
   1. 1 and 592.
 </details>
 
