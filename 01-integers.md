@@ -4,6 +4,8 @@
 
 - Bounded below means that the set does not go to negative infinity, bounded above means the set does not go to positive infinity
 
+- A lemma is a subsidiary or intermediate theorem in an argument or proof
+
 ## Excercises
 
 1. Which integers divide zero?
