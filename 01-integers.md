@@ -39,3 +39,11 @@
   <summary>Solution</summary>
   3, 3; 3, 0
 </details>
+
+8. Verify that the lemma is true when a = 16, b = 6, and q = 2.
+
+9. Calculate (343, 280) and (578, 442).
+<details>
+  <summary>Solution</summary>
+  7, 34
+</details>
