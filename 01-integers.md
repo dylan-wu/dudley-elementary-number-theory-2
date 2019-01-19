@@ -1,5 +1,9 @@
 # Integers
 
+## Notes
+
+- Bounded below means that the set does not go to negative infinity, bounded above means the set does not go to positive infinity
+
 ## Excercises
 
 1. Which integers divide zero?
