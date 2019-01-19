@@ -59,14 +59,14 @@
 8. Prove that if a | b and a > 0, then (a, b) = a.
 9. Prove that ((a, b), b) = (a, b).
 10. 
-  1. Prove that (n, n + 1) = 1 for all n > 0.
-  2. Ifn > 0, What can (11, n + 2) be?
+    1. Prove that (n, n + 1) = 1 for all n > 0.
+    2. Ifn > 0, What can (11, n + 2) be?
 11.
-  1. Prove that (k, n +k) = 1 if and only if (k, n) = 1.
-  2. Is it true that (k, n + k) = d if and only if (k, n) = d?
+    1. Prove that (k, n +k) = 1 if and only if (k, n) = 1.
+    2. Is it true that (k, n + k) = d if and only if (k, n) = d?
 12. Prove: If alb and cld, then aclbd.
 13. Prove: If dla and d| b, then d2|ab.
 14. Prove: If clab and (c, a) = d, then cldb.
 15.
-  1. If x2 + ax + b = 0 has an integer root, show that it divides b.
-  2. If x2 + ax + b = 0 has a rational root, show that it is in fact an integer.
+    1. If x2 + ax + b = 0 has an integer root, show that it divides b.
+    2. If x2 + ax + b = 0 has a rational root, show that it is in fact an integer.
