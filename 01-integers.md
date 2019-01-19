@@ -52,7 +52,7 @@
 1. Calculate (314, 159) and (4144, 7696).
 
 <details>
-  <summary>Solutions</summary>
+  <summary>   Solution</summary>
   1. 1 and 592.
 </details>
 
@@ -61,7 +61,7 @@
 3. Find x and y such that 314x + 159y = 1.
 
 <details>
-  <summary>Solutions</summary>
+  <summary>Solution</summary>
   3. One solution is x = -40, y = 79.
 </details>
 
