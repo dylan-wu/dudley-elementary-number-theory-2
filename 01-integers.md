@@ -18,7 +18,8 @@
 
 <details>
   <summary>Solution</summary>
-  <pre>
+
+```
 As a sample of the sort of properties that division has, we prove:
 
 
@@ -29,7 +30,7 @@ dq=aanddr=b.
 Thus
 a + b 2 (Kg + r),
 so from the definition again, d| (a + b).
-  </pre>
+```
 </details>
 
 3. Prove that if D | A then D | CA for any integer C.
