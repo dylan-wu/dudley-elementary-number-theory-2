@@ -26,7 +26,7 @@ As a sample of the sort of properties that division has, we prove:
   
 Proof. From the definition, we know that there are integers q and r such that:
 
-dq = a andd r = b.
+dq = a and dr = b.
 
 Thus
 a + b = d(q + r),
