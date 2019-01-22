@@ -16,6 +16,21 @@
 
 2. Show that if A | B and B | C, then A | C.
 
+<details>
+  <summary>Solution</summary>
+  <pre>
+As a sample of the sort of properties that division has, we prove:
+
+  Lemma 1. If dla and dlb, then d|(a + b).
+
+Proof. From the definition, we know that there are integers q and r such that
+dq=aanddr=b.
+Thus
+a + b 2 (Kg + r),
+so from the definition again, d| (a + b).
+  </pre>
+</details>
+
 3. Prove that if D | A then D | CA for any integer C.
 
 4. What are (4, 14), (5, 14), and (6, 16)?
