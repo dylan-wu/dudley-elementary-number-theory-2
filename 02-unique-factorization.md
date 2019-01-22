@@ -36,8 +36,8 @@
    - 1 + 2 + 4, 1 + 2 + 4 + 8, 1 + 2 + 4 + * + 16,...
    are alternately prime and composite. Show that he was wrong.
 4.
-   1. DeBouvelles (1509) claimed that one or both of 6n + 1 and 6n - 1 are primes for all n greater than or equal 1. Show that he was wrong.
-   2. Show that there are infinitely many n such that both 6n - 1 and 6n + 1 are composite.
+    1. DeBouvelles (1509) claimed that one or both of 6n + 1 and 6n - 1 are primes for all n greater than or equal 1. Show that he was wrong.
+    2. Show that there are infinitely many n such that both 6n - 1 and 6n + 1 are composite.
 5. Prove that if n is square, then each exponent in its prime-power decomposition is even.
 6. Prove that if each exponent in the prime-power decomposition of n is even, then n is a square.
 7. Find the smallest integer divisible by 2 and 3 which is simultaneously a square and a fifth power.
