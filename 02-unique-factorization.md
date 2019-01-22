@@ -45,8 +45,8 @@
 9. Is it possible for a prime p to divide both n and n + 1 (n greater than or equal to 1)?
 10. Prove that n(n + 1) is never a square for n > 0
 11.
-   1. Verify that 2^5 * 9^2 = 2592.
-   2. Is 2^5 * a^b = 25ab possible for other a, b? (Here 25ab denotes the digits of 2^5 * a^b and not a product.)
+   - 1. Verify that 2^5 * 9^2 = 2592.
+   - 2. Is 2^5 * a^b = 25ab possible for other a, b? (Here 25ab denotes the digits of 2^5 * a^b and not a product.)
 12. Let p be the least prime factor of n, Where n is composite. Prove that if p > n1/3, then n/p is prime.
 13. True or false? If p and q divide n, and each is greater than n^(1/4), then n/pq is prime.
 14. Prove that if n is composite, then 2^(n-1) is composite.
