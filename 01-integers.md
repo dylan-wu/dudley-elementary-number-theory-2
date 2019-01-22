@@ -22,13 +22,14 @@
 ```
 As a sample of the sort of properties that division has, we prove:
 
-
   Lemma 1. If dla and dlb, then d|(a + b).
   
-Proof. From the definition, we know that there are integers q and r such that
-dq=aanddr=b.
+Proof. From the definition, we know that there are integers q and r such that:
+
+dq = a andd r = b.
+
 Thus
-a + b 2 (Kg + r),
+a + b = d(q + r),
 so from the definition again, d| (a + b).
 ```
 </details>
