@@ -15,10 +15,6 @@
 </details>
 
 2. Show that if A | B and B | C, then A | C.
-<details>
-  <summary>Solution</summary>
-  All of them
-</details>
 
 3. Prove that if D | A then D | CA for any integer C.
 
